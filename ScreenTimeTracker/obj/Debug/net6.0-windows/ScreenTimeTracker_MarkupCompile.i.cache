@@ -1,0 +1,20 @@
+﻿ScreenTimeTracker
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\aurel\OneDrive\CS NEA Coursework\ScreenTimeTracker\ScreenTimeTracker\obj\Debug\net6.0-windows\
+ScreenTimeTracker
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\aurel\OneDrive\CS NEA Coursework\ScreenTimeTracker\ScreenTimeTracker\App.xaml
+6345599565
+
+16-476423952
+1942007414746
+MainWindow.xaml;Styles\Buttons.xaml;Utilities\DataTemplate.xaml;Views\AnalysisView.xaml;Views\ScreenTimeView.xaml;Views\SetAppLimitView.xaml;
+
+False
+
